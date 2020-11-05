@@ -1,5 +1,6 @@
 # Lebenslauf
 
+![Passbild](https://github.com/phrank-leeng/Einkaufsliste/i2Vlmfs.jpg)
 Name: Horst, Lokal  
 Geboren am: 30.02.2000  
 Anschrift: An-der-Straße 1b, 10101 Ort
@@ -8,4 +9,4 @@ Anschrift: An-der-Straße 1b, 10101 Ort
 
 Abitur 2020: Schule  
 Bachelor, Fachrichtung BWL 2023: Hochschule  
-Manager 2023-jetzt: McDonald's
+Manager 2023-jetzt: McDonald's  
